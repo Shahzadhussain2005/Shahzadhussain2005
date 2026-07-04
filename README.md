@@ -50,8 +50,8 @@ An AI-powered assistant designed to answer medical/health-related queries by gro
 #### 🔹 Karachi AQI — End-to-End ML Pipeline
 A full machine learning pipeline for **air quality index prediction in Karachi** — covering data collection, preprocessing, feature engineering, model training, and evaluation, built as a complete real-world ML system rather than a notebook-only experiment.
 
-#### 🔹 Aain AI
-[Add a 1–2 line description of what this project does — since I don't have the specifics, I've left this as a placeholder for you to fill in accurately.]
+#### 🔹 Aain AI — Legal Chatbot with Dual Response Modes
+A legal AI chatbot built with **two distinct response modes**: a **professional mode** for lawyers and judges that responds using precise legal/technical terminology, and a **public mode** that explains the same legal information in simple, plain English for everyday users. Designed to make legal information accurate for experts while still being accessible to non-experts, without dumbing down or misrepresenting the underlying legal content.
 
 ---
 
@@ -62,6 +62,19 @@ A full machine learning pipeline for **air quality index prediction in Karachi**
 - **Document intelligence** — PDF/Word/scanned-file ingestion, OCR, metadata tagging, and secure retrieval
 - **SQL-to-text & structured data reasoning** — letting users query real business data in natural language
 - **End-to-end ML pipelines** — not just models, but full data-to-deployment systems
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shahzadhussain2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzadhussain2005&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzadhussain2005&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
