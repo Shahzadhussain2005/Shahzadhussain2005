@@ -78,6 +78,13 @@ A legal AI chatbot built with **two distinct response modes**: a **professional 
 
 ---
 
+### 🕒 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### 📫 Let's Work Together
 
 I'm available for freelance and contract AI/RAG engineering work — chatbots, knowledge bases, and ML pipelines.
